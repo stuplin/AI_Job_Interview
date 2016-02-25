@@ -1,0 +1,9 @@
+F:\University\Year 2\Group Project\Assignment2\Job Interview\Job Interview\bin\Debug\Job Interview.exe.config
+F:\University\Year 2\Group Project\Assignment2\Job Interview\Job Interview\bin\Debug\Job Interview.exe
+F:\University\Year 2\Group Project\Assignment2\Job Interview\Job Interview\bin\Debug\Job Interview.pdb
+F:\University\Year 2\Group Project\Assignment2\Job Interview\Job Interview\obj\Debug\Job Interview.csprojResolveAssemblyReference.cache
+F:\University\Year 2\Group Project\Assignment2\Job Interview\Job Interview\obj\Debug\Job_Interview.Form1.resources
+F:\University\Year 2\Group Project\Assignment2\Job Interview\Job Interview\obj\Debug\Job_Interview.Properties.Resources.resources
+F:\University\Year 2\Group Project\Assignment2\Job Interview\Job Interview\obj\Debug\Job Interview.csproj.GenerateResource.Cache
+F:\University\Year 2\Group Project\Assignment2\Job Interview\Job Interview\obj\Debug\Job Interview.exe
+F:\University\Year 2\Group Project\Assignment2\Job Interview\Job Interview\obj\Debug\Job Interview.pdb
